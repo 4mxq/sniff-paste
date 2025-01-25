@@ -34,6 +34,19 @@ This will scrape pastebin for the latest number of pastes, then run analysis for
 	- `cryptos` -- stores cryptocurrency findings with extension to paste 
 
 **Crypto findings are not certain to be valid, consider them low probability findings**
+jihs
+jha
+qqihs
+djjo
+abhs
+juhs
+ok
+mioa
+198
+jhsoj
+bbsjhwk
+
+
 
 
 ## Notes
